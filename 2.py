@@ -1,2 +1,2 @@
-a = (1,2,3,"哈哈",True,False)
+a = (1,2,3,4,"哈哈",True,False)
 print(type(a))
