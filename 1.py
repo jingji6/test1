@@ -71,4 +71,4 @@ a = input("请输入：")
 b = input("请输入：")
 print("两段字符的长度：",len(a)+len(b))
 
-print(4)
+print(5)
